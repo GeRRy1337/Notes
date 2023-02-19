@@ -1,1 +1,0 @@
-Órarend(órarend.md)
